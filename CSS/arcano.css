@@ -36,5 +36,44 @@ h1{
 .card{
     background-color: rgb(73, 12, 172);
     width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 10px;
+}
+h2{
+    color: rgb(145, 145, 253);
+    font-size: 40px;
+    display: flex;
+    justify-content:center;
+}
+p{
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 40px;
+}
+.cardmaior{
+    margin-left: 5px;
+    width: 1900px;
     height: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.card1{
+     background-color: rgb(73, 12, 172);
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 10px;
+}
+li{
+    color: aliceblue;
+    margin-top: 10px;
 }
