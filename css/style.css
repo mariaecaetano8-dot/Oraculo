@@ -29,3 +29,78 @@
     font-size: 20px;
     color: #542A91; 
 }
+
+h2 {
+    color: #F5C875;
+    margin-bottom: 20px;
+    display: flex;
+}
+body{
+    background-color:#10091F  
+}
+.card-principal{
+    margin-left: 5px;
+    width: 1900px;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.card{
+    background: linear-gradient(
+    135deg, #10091F, #321653, #17102F);
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    color: rgb(145, 145, 253);
+    font-size: 40px;
+    display: flex;
+}
+
+.container h1 {
+    color: #F5C875;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+.container p {
+    margin-bottom: 25px;
+    color: #B58AE8;
+}
+.conteiner-principal{
+    width: 1900px;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 14px;
+    display: flex;
+    justify-content: center;
+   
+}
+.lua-1{
+    color:#B58AE8;
+    align-items: center;
+    width: 280px;
+    height: 280px;
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 14px;
+    background-color: #542A91;
+    display: flex;
+    justify-content: center;
+
+}
+.bolo-morango{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 14px;
+}
